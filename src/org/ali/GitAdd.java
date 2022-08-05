@@ -1,9 +1,10 @@
 package org.ali;
 
 public class GitAdd {
-    public static void main(String[] args) {
-        System.out.println("Command: git add <_full_path_tenfile>");
-        System.out.println("Command: git commit -m \"Commit file\"");
-        System.out.println("Command: git push <ten branch>");
+    public static void main(String[]args ) {
+        System.out.println("command: git add_full_path_tenfile>");
+        System.out.println("command: git commit -m \" commit file\"");
+        System.out.println("command: git push < ten branch>");
+
     }
 }
