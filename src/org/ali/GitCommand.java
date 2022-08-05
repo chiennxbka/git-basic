@@ -8,5 +8,6 @@ public class GitCommand {
         System.out.println("Command: git push <ten branch>");// push to branch
         System.out.println("Command: git branch");// liet ke danh sach branch hien co
         System.out.println("Command: git checkout <ten nhanh>");// chuyen branch(nhanh)
+        System.out.println("Command: git merge code voi Viet Anh");// chuyen branch(nhanh)
     }
 }
